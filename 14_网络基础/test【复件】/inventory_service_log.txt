@@ -1,0 +1,4 @@
+
+
+[2018-09-16 19:34:04] [App 578080] - Failed to call Inventory.GetItemDefMeta#1: No Connection (error message: )
+[2018-09-16 19:34:04] [App 578080] - Failed to call Inventory.AddPromoItem#1: No Connection (error message: )

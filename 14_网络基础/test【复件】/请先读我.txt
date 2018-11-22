@@ -1,0 +1,94 @@
+————————————
+  大家好，第二个去月球小插曲（Sigmund Minisode2）现在作为免费DLC可供下载。c:
+长度上跟第一篇差不多（大概20分钟），但是会更加的......重要，或者说情节更微妙
+一点。跟以往一样，如果你还有没有玩过第一篇小插曲，我建议你先去试试
+英文版http://freebirdgames.com/2013/12/31/to-the-moon-holiday-special-releas/
+中文版http://tieba.baidu.com/p/3023417263
+
+如果你在Steam或者GOG上买过去月球本篇，第二个小插曲应该会自动更新在你的
+账号与安装文件夹中。
+或者在发布页面下载英文版
+http://freebirdgames.com/2015/02/18/sigmund-minisode-2-released/
+
+支持Windows，Mac，Linux系统
+
+祝玩的开心
+
+*注意F12会重启游戏，别按到了。
+————————————
+
+我也要借此机会说些大家都不愿意听到的事。
+
+Jordan，我的一位好朋友，为Freebird的游戏创作了很多像素图（包括去月球的灯塔，
+小插曲中Neil和Eva的同事们）。如今正在住院接受化疗，这个链接可以了解更多。
+https://www.facebook.com/FreebirdGames/posts/1388215297860763
+
+自从他住院以后，Jordan的母亲就辞去了她的工作一直陪着他，随之而来的是大量的
+经济支出，比如食宿等等。如同我在这个短篇结尾说的那样，如果我们能筹集捐款来
+帮助他的家庭，就帮上大忙了。他母亲的Paypal是
+LoraB23@gmail.com
+
+当然也恳请你们给他送上鼓励的话语。
+Jordan@freebirdgames.com
+
+谢谢各位！
+
+————————————
+这个小短篇做完以后，我就要继续去完成Finding Paradise。 (去月球第二部)
+其实第二部的想法已经酝酿很久了，所以我想接下来的工作可以顺利展开。
+
+第二部会跟鸟的故事（A Bird Story）有很大关联，但是并不像大多数人所讨论的那样，
+鸟的故事的相关场景不会出现在Finding Paradise中。有时我甚至认为鸟的故事应该在
+第二部之后才发布......但这不过是个一闪即逝的想法罢了；时间会证明一切。
+
+无论怎样，大家珍重——跟以往一样，感谢各位的支持。
+
+(P.S.有人问起音乐盒的事，我们会继续补货的。
+http://freebirdgames.bigcartel.com/）
+
+-Kan/Reives
+————————————
+www.Freebirdgames.com
+www.facebook.com/FreebirdGames
+www.twitter.com/Reives_Freebird
+————————————————————————————
+————————————————————————————
+去月球小插曲2（the 2nd Sigmund Minisode）暗夜汉化组
+windows版
+
+请直接运行SigCorp Minisode 2.exe进入游戏。
+
+
+原著：Freebird Games 版权所属权： Freebird Games
+————————————————————————————
+
+汉化名单：
+
+【翻译】
+凤凰山芭蕉 柒湮 Yel Liadolne
+
+【校对 润色】
+凤凰山芭蕉 charlesoboe 柒湮
+
+【美工】
+Listy
+
+【测试】
+凤凰山芭蕉 fay_envoy charlesoboe 柒湮
+
+版本移植：小鸡
+
+RMXP文字显示修复脚本补丁：charlesoboe
+
+使用软件
+RPG Maker XP 1.02
+DreaMaker_XP-v4.9.1
+transifex在线翻译平台
+
+如有任何翻译问题，bug等，请发邮件联系
+fangperky@163.com （凤凰山芭蕉）
+qq群：273380354
+
+欢迎各种交流意见。
+
+2015.03.20

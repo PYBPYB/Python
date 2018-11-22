@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be22f4b1-3b93-4ddc-9626-381ec298ac7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/网络基础.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_socket的基本使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_双向通讯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_半双工通讯【同法同收】.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_唱歌和跳舞[没有多任务].py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_唱歌和跳舞[多任务].py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_多线程共用全局变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_全双工聊天器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_多进程Queu实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_复制文件夹1.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_复制文件夹2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Bandcamp URL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Controls and Info -- Readme!.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Full HD soundtrack with bonus tracks available here.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LICENSE.HidSharp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LICENSE.MinHook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LICENSE.NLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LICENSE.Newtonsoft.Json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LICENSE.OpenSSL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LICENSE.Rx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LICENSE.apache20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LICENSE.lgpl3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MicrosoftStoreEngagementSDKId.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Readme - Contacts &amp; Updates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Twitter &amp; Facebook Contacts &amp; Updates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/cloud_log.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/configstore_log.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/connection_log.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/connection_log_7777.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/content_log.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/controller_ui.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dualshock_4_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dualshock_4_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dualshock_4_greek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dualshock_4_italian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dualshock_4_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dualshock_4_romanian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dualshock_4_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dualshock_4_spanish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/freeimage-license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/guids.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/index.txt.old.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/indexkcom_commonfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/indexkcom_commonfile.txt.old.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/installscript_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/inventory_service_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/isoimages_manifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/layout_polish_dualtouch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/open_source_licenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/output_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_brazilian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_finnish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_french.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_german.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_greek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_hungarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_italian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_korean.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_koreana.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_polish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_romanian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_spanish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_swedish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_turkish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/overlay_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ovftool_open_source_licenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/platform_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/playerData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/runprocess_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_brazilian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_french.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_polish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_swedish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serverbrowser_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steam_appid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steam_controller_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steam_controller_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steam_controller_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steam_controller_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_finnish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_greek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_romanian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_swedish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steambootstrapper_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_italian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_pirate.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_postlogon_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_postlogon_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_postlogon_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_postlogon_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_postlogon_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_postlogon_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_postlogon_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/steamui_spanish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/svnRevision.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/switch_controller_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/trackerui_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/trackerui_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/trackerui_finnish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/trackerui_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/trackerui_korean.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/trackerui_koreana.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/trackerui_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/trackerui_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/trackerui_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/unattend.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_brazilian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_finnish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_french.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_german.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_greek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_hungarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_italian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_polish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_portuguese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_romanian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_spanish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_swedish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_turkish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vgui_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vixwrapper-product-config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/whatsnew.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_360_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_360_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_360_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_360_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_360_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_360_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_360_turkish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_360_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_one_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_one_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xbox_one_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ÃÙ¤+Â-+Ê.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/共享精神.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/开发者说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/目录说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/解压密码.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/请先读我.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/进程篇补全.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/Bandcamp URL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/Controls and Info -- Readme!.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/Full HD soundtrack with bonus tracks available here.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/LICENSE.HidSharp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/LICENSE.MinHook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/LICENSE.NLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/LICENSE.Newtonsoft.Json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/LICENSE.OpenSSL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/LICENSE.Rx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/LICENSE.apache20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/LICENSE.lgpl3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/MicrosoftStoreEngagementSDKId.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/Readme - Contacts &amp; Updates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/Twitter &amp; Facebook Contacts &amp; Updates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/cloud_log.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/configstore_log.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/connection_log.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/connection_log_7777.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/content_log.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/controller_ui.previous.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/dualshock_4_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/dualshock_4_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/dualshock_4_greek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/dualshock_4_italian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/dualshock_4_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/dualshock_4_romanian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/dualshock_4_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/dualshock_4_spanish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/freeimage-license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/guids.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/index.txt.old.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/indexkcom_commonfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/indexkcom_commonfile.txt.old.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/installscript_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/inventory_service_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/isoimages_manifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/layout_polish_dualtouch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/open_source_licenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/output_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_brazilian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_finnish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_french.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_german.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_greek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_hungarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_italian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_korean.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_koreana.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_polish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_romanian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_spanish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_swedish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_turkish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/overlay_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/ovftool_open_source_licenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/platform_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/playerData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/runprocess_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_brazilian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_french.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_polish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_swedish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/serverbrowser_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steam_appid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steam_controller_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steam_controller_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steam_controller_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steam_controller_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_finnish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_greek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_romanian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_swedish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steambootstrapper_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_italian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_pirate.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_postlogon_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_postlogon_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_postlogon_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_postlogon_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_postlogon_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_postlogon_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_postlogon_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/steamui_spanish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/svnRevision.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/switch_controller_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/trackerui_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/trackerui_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/trackerui_finnish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/trackerui_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/trackerui_korean.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/trackerui_koreana.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/trackerui_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/trackerui_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/trackerui_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/unattend.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_brazilian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_bulgarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_czech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_finnish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_french.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_german.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_greek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_hungarian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_italian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_latam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_norwegian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_polish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_portuguese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_romanian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_spanish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_swedish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_turkish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vgui_vietnamese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/vixwrapper-product-config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/whatsnew.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_360_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_360_dutch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_360_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_360_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_360_tchinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_360_thai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_360_turkish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_360_ukrainian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_one_danish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_one_japanese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/xbox_one_schinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/ÃÙ¤+Â-+Ê.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/共享精神.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/开发者说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/目录说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/解压密码.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/请先读我.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test【复件】/进程篇补全.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/.idea/15_协程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/01_迭代器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/02_斐波那契数列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/03_使用生成器完成斐波那契数列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/04_使用 yield 完成多任务.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/05_使用greenlet 完成多任务.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_协程/06_使用gevent 实现多任务.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/.idea/16_正则表达式.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/01_匹配变量名.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/02_匹配163邮箱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/03_匹配更多邮箱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/04_清洗数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_正则表达式/05_解析网址.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/.idea/17_web服务器.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/.idea/dictionaries/26797.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/01_返回固定页面的http服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/02_多进程完成http服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/03_使用gevent实现HTTP服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/04_多线程实现http服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/05_单进程单进程非堵塞实现http服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/06_长连接实现HTTP服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/07_使用epoll实现http服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/detail - 副本.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/images/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/images/www/header_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/images/www/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/images/www/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/dimg/2014/08/19/1643572985.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/dimg/2014/08/20/1647091199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/dimg/2014/08/21/1610595985.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/dimg/2014/08/21/1611386792.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/dimg/2014/08/21/1724527922.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/dimg/2014/08/22/1201006323.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/05/03/2350199187.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/06/18/0944441641.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/07/14/1603186472.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/09/1745261721.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/11/1611219457.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/11/1643486380.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/11/1923028179.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/11/2254563977.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/12/1050108862.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/12/1504149636.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/12/1612373717.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/12/673382.jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/13/0922027715.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/13/1151125475.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/13/1433414117.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/13/1501153342.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/14/0942541595.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/15/1502516697.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/18/1454598667.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/18/1505005812.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/18/1557157301.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/18/1633165656.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/19/1102219742.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/19/1829363428.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/20/1513263509.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/20/1544178199.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/20/1606444065.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/20/1606478809.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/21/1414035686.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/mall/goods/2014/08/21/1556068825.jpg_280x280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/min/backtotop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/min/paging.css,list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/min/yzcm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_web服务器/html/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_python提高/.idea/18_python提高.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_python提高/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_python提高/.idea/dictionaries/26797.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_python提高/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_python提高/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_python提高/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_python提高/01_arge和kwarge.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="785462759">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03_半双工通讯【同法同收】.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="290" />
+    <option name="y" value="96" />
+    <option name="width" value="1123" />
+    <option name="height" value="963" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be22f4b1-3b93-4ddc-9626-381ec298ac7a" name="Default Changelist" comment="" />
+      <created>1542888517567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542888517567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="290" y="96" width="1123" height="963" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25493884" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.32985073" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/03_半双工通讯【同法同收】.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

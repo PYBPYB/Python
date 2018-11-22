@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <!--第一种：外联式-->
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <!--第二种；内嵌式-->
+    <style type="text/css">
+    h1{
+        font-size: 30px;
+        font-family: "微软雅黑 Light";
+        color: blueviolet;
+
+    }
+    h2{
+        font-size: 20px;
+        font-family: "Segoe UI Light";
+        color: black;
+        line-height: 40px;
+    }
+    span{
+        color: red;
+        font-size: 40px;
+
+    }
+
+    </style>
+</head>
+<body>
+<div>外关联修改</div>
+
+<h1>内嵌式修改</h1>
+<h2>
+    <span>CSS</span> 层叠样式表(英文全称：Cascading Style Sheets)是
+    一种用来表现HTML（标准通用标记语言的一个应用）或XML（标
+    准通用标记语言的一个子集）等文件样式的计算机语言。CSS不仅
+    可以静态地修饰网页，还可以配合各种脚本语言动态地对网页各
+    元素进行格式化。<br/>
+    CSS 能够对网页中元素位置的排版进行像素级精确控制，支持几
+    乎所有的字体字号样式，拥有对网页对象和模型样式编辑的能力。
+</h2>
+<!--第三种：不标准方式，行列样式-->
+<a href="http://www.baidu.com" style="font-size: 20px;color: aqua">百度一下(不推荐方式)</a>
+
+</body>
+</html>

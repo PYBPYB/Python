@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>盒子模型</title>
+    <style type="text/css">
+        .box {
+            width: 140px;
+            height: 140px;
+            background: gold;
+
+            border:10px solid #000000;
+            /*内边距 上 右 下 左*/
+            padding: 20px;
+            /*外边距*/
+            /*margin: 20px;*/
+            margin: 50px auto 100px;
+        }
+        .box1,.box2,.box3{
+            width: 50px;
+            height: 50px;
+            background-color: gold;
+            margin: 20px;
+
+        }
+        .box2,.box3{
+            border: 50px solid #ff0000;
+        }
+        .box3{
+            padding: 50px;
+        }
+
+        .New{
+            font: 20px "Microsoft YaHei";
+            color: #333;
+            font-weight: normal;
+
+            width: 390px;
+            height: 30px;
+            /*background-color: antiquewhite;*/
+
+            margin: 10px;
+            padding-left: 20px;
+            padding-top: 15px;
+            padding-bottom: 15px;
+
+            border-top: 1px solid #ff0000;
+            border-bottom: 3px solid #000000;
+        }
+        .New2{
+            font: 20px "Microsoft YaHei";
+            color: #333;
+            font-weight: normal;
+
+            width: 400px;
+            height: 50px;
+            /*background-color: antiquewhite;*/
+
+            margin: 10px;
+            line-height: 50px;
+            text-indent: 20px;
+
+            border-top: 1px solid #ff0000;
+            border-bottom: 3px solid #000000;
+        }
+
+        body{
+            margin: 0px;
+        }
+        .hezi{
+            width: 100px;
+            height: 100px;
+            background-color: burlywood;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="box">这是盒子里面的内容</div>
+    <div class="box1">1</div>
+    <div class="box2">2</div>
+    <div class="box3">3</div>
+
+    <div class="New">新闻列表</div>
+    <div class="New2">新闻列表</div>
+    <div class="hezi">我来测贴边</div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+[COMMENT]
+[Infoc]
+[info]
+v=2017112915
+p0=kcom_commonfile/
+m0=a2fd9d0b5844b7b310721d299e14130e
+c=1

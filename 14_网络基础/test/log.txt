@@ -1,0 +1,40 @@
+2018-06-25T03:07:26Z: NVAPI init: OK
+2018-06-25T03:07:26Z: NvAPI_DRS_CreateSession: 0
+2018-06-25T03:07:26Z: NvAPI_DRS_LoadSettings: 0
+2018-06-25T03:07:26Z: NvAPI_DRS_FindProfileByName: 0
+2018-06-25T03:07:26Z: Profile Wallpaper Engine found, not overwriting.
+2018-06-25T03:07:26Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2018-06-25T03:07:26Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2018-06-25T03:07:26Z: NvAPI_DRS_FindProfileByName: 0
+2018-06-25T03:07:26Z: Profile Wallpaper Engine UI found, overwriting.
+2018-06-25T03:07:26Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2018-06-25T03:07:26Z: NvAPI_DRS_SaveSettings: 0
+2018-06-25T03:07:26Z: NVAPI success: 1
+2018-06-28T11:16:34Z: Failed compiling ps_4_0 shader shaders/genericparticle.frag with errors:
+D:\steam\steamapps\common\wallpaper_engine\shaders\genericparticle.frag(161,25): error X3004: undeclared identifier 'v_ScreenCoord'
+D:\steam\steamapps\common\wallpaper_engine\shaders\genericparticle.frag(164,2): error X1510: unexpected #endif
+
+2018-06-28T11:46:44Z: NVAPI init: OK
+2018-06-28T11:46:44Z: NvAPI_DRS_CreateSession: 0
+2018-06-28T11:46:44Z: NvAPI_DRS_LoadSettings: 0
+2018-06-28T11:46:44Z: NvAPI_DRS_FindProfileByName: 0
+2018-06-28T11:46:44Z: Profile Wallpaper Engine found, not overwriting.
+2018-06-28T11:46:44Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2018-06-28T11:46:44Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2018-06-28T11:46:44Z: NvAPI_DRS_FindProfileByName: 0
+2018-06-28T11:46:44Z: Profile Wallpaper Engine UI found, overwriting.
+2018-06-28T11:46:44Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2018-06-28T11:46:44Z: NvAPI_DRS_SaveSettings: 0
+2018-06-28T11:46:44Z: NVAPI success: 1
+2018-07-19T10:44:52Z: NVAPI init: OK
+2018-07-19T10:44:52Z: NvAPI_DRS_CreateSession: 0
+2018-07-19T10:44:52Z: NvAPI_DRS_LoadSettings: 0
+2018-07-19T10:44:52Z: NvAPI_DRS_FindProfileByName: 0
+2018-07-19T10:44:52Z: Profile Wallpaper Engine found, not overwriting.
+2018-07-19T10:44:52Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2018-07-19T10:44:52Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2018-07-19T10:44:52Z: NvAPI_DRS_FindProfileByName: 0
+2018-07-19T10:44:52Z: Profile Wallpaper Engine UI found, overwriting.
+2018-07-19T10:44:52Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2018-07-19T10:44:52Z: NvAPI_DRS_SaveSettings: 0
+2018-07-19T10:44:52Z: NVAPI success: 1

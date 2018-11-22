@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="20_miniweb框架" />
+    <orderEntry type="module" module-name="05_高级数据类型" />
+    <orderEntry type="module" module-name="21_装饰器" />
+    <orderEntry type="module" module-name="22_元类、实现ORM" />
+    <orderEntry type="module" module-name="23_前端" />
+    <orderEntry type="module" module-name="京东商城" />
+    <orderEntry type="module" module-name="16_正则表达式" />
+  </component>
+</module>

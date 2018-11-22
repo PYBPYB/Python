@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="gb2312">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>用户注册 - 一站成名</title>
+    <link rel="stylesheet" href="http://static.zhonghuasuan.com/common/css/reset.css">
+    <link rel="stylesheet" href="http://static.zhonghuasuan.com/common/js/jquery/artDialog/skins/default.css">
+    <link rel="stylesheet" href="http://static.zhonghuasuan.com/register/css/reg.css">
+	<style type="text/css">
+		
+		#logo:before {
+			content: url("images/www/logo.png");
+		}
+		#logo {
+			height: 45px;
+			overflow: hidden;
+			width: 250px;
+		}
+		.pull-left {
+			float: left;
+		}
+
+	</style>
+</head>
+<body>
+    <div class="box">
+        <div class="headerWrapper">
+            <div class="header w980 clearfix">
+                <a href="http://reg.zhonghuasuan.com/">
+                    <h1 id="logo" class="pull-left">登陆-一站成名</h1>
+                </a>
+                <span class="link pull-right">
+                    <a href="http://www.zhonghuasuan.com/" target="_blank">首页</a> |
+                    <a href="http://help.zhonghuasuan.com/" target="_blank">帮助中心</a>
+                </span>
+            </div>
+        </div>
+        <div class="signup-main">
+            <div class="step">
+                <ul class="step-1">
+                    <li>填写帐户信息</li>
+                    <li>验证身份信息</li>
+                    <li>注册成功</li>
+                </ul>
+                <span class="current-ico current-ico-1"></span>
+            </div>
+            <div class="form" onsubmit="return false;">
+                <div class="form-title">
+                    <h2 class="title-left buyers-title">买家注册</h2>
+                    <h2 class="title-right business-title-r"><a tabindex="-1" href="/seller/">商家注册</a></h2>
+                </div>
+                <div class="form-content">
+                    <form class="pure-form">
+                        <input type="hidden" id="method" name="method" value="check_save_reg"/>
+                        <input type="hidden" id="utype" name="utype" value="1"/>
+                        <ul class="form-list">
+                            <li>
+                                <span class="form-tip"><i class="form-list-ico ico-user"></i><input id="name" name="username" type="text" placeholder="请输入用户名"><i class="prompt-ico"></i></span>
+                                <div data-type="msg" data-name="name"></div>
+                            </li>
+                            <li>
+                                <span class="form-tip"><i class="form-list-ico ico-password"></i><input id="password" name="password" type="password" placeholder="请输入密码"><i class="prompt-ico"></i></span>
+                                <div data-type="msg" data-name="password"></div>
+                            </li>
+                            <li>
+                                <span class="form-tip"><i class="form-list-ico ico-password-r"></i><input id="repassword" name="confirmpassword" type="password" placeholder="重复密码"><i class="prompt-ico"></i></span>
+                                <div data-type="msg" data-name="repassword"></div>
+                            </li>
+                            <li>
+                                <p class="clearfix">
+                                    <span class="form-tip foo-box"><i class="form-list-ico ico-verification"></i><input id="foo" name="valiCode" type="text" placeholder="验证码"><i class="prompt-ico"></i></span>
+                                    <img src="images/icon.jpg" width="120" height="38" alt="看不清？换一张" class="pull-left">
+                                    <a class="foo-change" href="#">看不清？换一张</a>
+                                </p>
+                                <div data-type="msg" data-name="foo"></div>
+                            </li>
+                            <li class="pure-checkbox">
+                                <input id="cb" type="checkbox">
+                                <label for="cb">我已阅读并同意</label>
+                                <a href="/regtxt/" target="_blank">《用户使用协议》</a><br>
+                                <input type="submit" class="pure-button pure-button-disabled pure-button-primary" value="立即注册" />
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+                <div class="sidebar-content">
+                    <p>
+                        已有一站成名帐号？
+                        <a href="http://login.zhonghuasuan.com/" class="login">马上登录</a>
+                    </p>
+                </div>
+ 
+            </div>
+        </div>
+        <script type="text/javascript" src="http://static.zhonghuasuan.com/common/js/jquery-1.10.1.min.js"></script>
+        <script type="text/javascript" src="http://static.zhonghuasuan.com/common/js/jquery/artDialog/jquery.artDialog.js"></script>
+        <script type="text/javascript" src="http://static.zhonghuasuan.com/common/js/jquery/jquery.placeholder.js"></script>
+        <script type="text/javascript" src="http://static.zhonghuasuan.com/register/js/Check.object.js"></script>
+        <script type="text/javascript" src="http://static.zhonghuasuan.com/register/js/step-1.js"></script>
+		        <div class="footer">
+            <a href="http://help.zhonghuasuan.com/" target="_blank">帮助</a>
+            <span>|</span>
+            <a href="http://help.zhonghuasuan.com/buyer" target="_blank">新手向导</a>
+            <span>|</span>
+            <a href="http://help.zhonghuasuan.com/feedback" target="_blank">意见反馈</a>
+            <span style="margin-left:10px">Copyright © 2006-2014</span>
+            <a style="margin-right:10px;" href="http://www.zhonghuasuan.com/" target="_blank">zhonghuasuan.com</a>
+            <span>版权所有</span>
+            <a href="http://www.miibeian.gov.cn/" target="_blank">桂ICP备07009935号</a>
+        <script src="http://s15.cnzz.com/stat.php?id=905537&web_id=905537" language="JavaScript"></script>
+		<div style="display:none;">
+			<script src="http://s96.cnzz.com/stat.php?id=5713574&web_id=5713574&show=pic" language="JavaScript"></script>
+		</div>
+	    <div style="display:none;">
+			<script type="text/javascript">
+		    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F24c3cf36b0a16747cd2c0ca3bbe6cffd' type='text/javascript'%3E%3C/script%3E"));
+		    </script>
+		    <script type="text/javascript">
+		    var _smq = _smq || [];
+		    _smq.push(['_setAccount', '67edec3', new Date()]);
+		    _smq.push(['_setHeatmapEnabled', 'no']);
+		    _smq.push(['_setUrlParam', 'smt_e', '_e360_uid', '_e360_campaignid', '_e360_groupid', '_e360_creativeid', '_e360_keywordid']);
+		    _smq.push(['pageview']);
+		
+		    (function() {
+		    var so = document.createElement('script'); so.type = 'text/javascript'; so.async = true;
+		    so.src = 'http://stat.e.tf.360.cn/search/c.js?u=562170789,562170789';
+		    var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(so, e);
+		    })();
+		
+		    (function() {
+		    var sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true;
+		    sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdnmaster.com/sitemaster/sm360.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s);
+		    })();
+		    </script>
+		</div>
+		<div style="display: none;">
+		<script  type="text/javascript">
+		  var _sogou_sa_q = _sogou_sa_q || [];
+		  _sogou_sa_q.push(['_sid', '142129-145837']);
+		 (function() {
+		    var _sogou_sa_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+		    var _sogou_sa_src=_sogou_sa_protocol+"hermes.sogou.com/sa.js%3Fsid%3D142129-145837";
+		    document.write(unescape("%3Cscript src='" + _sogou_sa_src + "' type='text/javascript'%3E%3C/script%3E"));
+		    })();
+		</script>
+		<!-- PHPStat Start -->
+		<script type="text/javascript">var _trackData = _trackData || [];</script>
+		<script type="text/javascript" charset="utf-8" id="phpstat_js_id_10000933" async="true" src="http://s1.topstat.cn/count/10000933/10000933.js"></script><noscript><img src="http://s1.topstat.cn/count/10000933/10000933.php" alt="PHPStat Analytics"/></noscript>
+		<!--/PHPStat End -->
+ 
+		<script>
+        !function(){
+            var r = document.createElement("script");
+            r.setAttribute("type","text/javascript");
+            r.setAttribute("src","http://static.zhonghuasuan.com/min/?f=javascript/common/referrer.min.js&v=1.0201408212300");
+            document.body.appendChild(r);
+        }();
+        </script>
+        
+        </div>
+		
+        </div>    </div>
+</body>
+</html>

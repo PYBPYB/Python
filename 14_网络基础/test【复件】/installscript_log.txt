@@ -1,0 +1,10 @@
+
+
+[2018-09-16 19:02:54] Failed to add installscript "D:\steam\steamapps\common\PUBG\installscript.vdf" to registry key whitelist (game path "D:\steam\steamapps\common\PUBG")
+[2018-09-16 19:33:34] Failed to add installscript "D:\steam\steamapps\common\PUBG\installscript.vdf" to registry key whitelist (game path "D:\steam\steamapps\common\PUBG")
+
+
+[2018-09-16 19:55:46] Failed to add installscript "D:\steam\steamapps\common\PUBG\installscript.vdf" to registry key whitelist (game path "D:\steam\steamapps\common\PUBG")
+
+
+[2018-09-16 20:04:22] Failed to add installscript "D:\steam\steamapps\common\PUBG\installscript.vdf" to registry key whitelist (game path "D:\steam\steamapps\common\PUBG")

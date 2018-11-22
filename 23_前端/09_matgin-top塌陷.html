@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>塌陷bug</title>
+    <style type="text/css">
+        .ckearfix:before{
+            content: "";
+            display: table;
+        }
+        .con{
+            width: 300px;
+            height: 300px;
+            background-color: burlywood;
+            /*border: 1px solid #000; 第一种结局问题的方法*/
+            /*overflow: hidden; 第二种解决问题的方法*/
+
+        }
+
+        .box{
+            width: 200px;
+            height: 100px;
+            background-color: red;
+            margin: 100px auto;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="con ckearfix">
+        <div class="box">
+
+        </div>
+    </div>
+
+</body>
+</html>

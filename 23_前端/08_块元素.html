@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>块元素</title>
+    <style type="text/css">
+        body{margin: 0px}
+        .bos{
+            background: rosybrown;
+            margin: 5px;
+        }
+        .box{
+            width: 200px;
+            height: 200px;
+            background: rosybrown;
+            margin: 5px auto 10px;
+            /**/
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+<!--块元素:每个占一行-->
+<div class="bos">div/p/ul/li/h1~h6/dl/dt/dd 支持全部样式</div>
+<!--内联元素:有多少内容占多少位置，不支持宽高-->
+<a class="bos">a/span/em/b/strong/i 支持部分样式</a><br/>
+<!--内联块元素:可以用display属性 将上面两种元素转化为这种元素-->
+<div class="box">div/p/ul/li/h1~h6/dl/dt/dd 支持全部样式</div>
+<a class="box">a/span/em/b/strong/i 支持部分样式</a>
+</body>
+</html>

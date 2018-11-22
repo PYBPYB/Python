@@ -1,0 +1,8 @@
+1、连接ADB
+	1）使用cmd切换到UI目录，保证没有其他adb在运行
+	2）执行adb connect localhost:5555
+	3）执行adb -s localhost:5555 shell
+	4）如果要连接多开的实例，那么adb端口号依次递增，例如5556、5557...
+2、共享目录
+	1）假设UI所在盘为X，那么共享目录在windows上路径为X:\Temp\TxGameDownload\MobileGamePCShared
+	2）android内的共享目录路径为/data/share1

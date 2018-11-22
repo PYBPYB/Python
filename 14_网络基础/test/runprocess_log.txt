@@ -1,0 +1,7 @@
+07/23/18 14:51:05 [AppID 431960] Exit Code (0) :  "D:\steam\steamapps\common\wallpaper_engine\launcher.exe" -uninstall GLE 0
+09/16/18 19:02:56 [AppID 578080] Exit Code (0) :  "D:\steam\steamapps\common\PUBG\TslGame\Binaries\Win64\EasyAntiCheat\EasyAntiCheat_Setup.exe" install 233 -console GLE 0
+09/16/18 19:03:01 [AppID 578080] Exit Code (0) :  "D:\steam\steamapps\common\PUBG\_CommonRedist\vcredist\2013\vcredist_x86.exe" /quiet /norestart GLE 183
+09/16/18 19:03:06 [AppID 578080] Exit Code (0) :  "D:\steam\steamapps\common\PUBG\_CommonRedist\vcredist\2013\vcredist_x64.exe" /quiet /norestart GLE 183
+09/16/18 19:03:13 [AppID 578080] Exit Code (0) :  "D:\steam\steamapps\common\PUBG\_CommonRedist\vcredist\2017\Microsoft Visual C++ 2017 x86.cmd"  GLE 183
+09/16/18 19:03:20 [AppID 578080] Exit Code (0) :  "D:\steam\steamapps\common\PUBG\_CommonRedist\vcredist\2017\Microsoft Visual C++ 2017 x64.cmd"  GLE 183
+09/16/18 20:04:23 [AppID 578080] Exit Code (0) :  "D:\steam\steamapps\common\PUBG\TslGame\Binaries\Win64\EasyAntiCheat\EasyAntiCheat_Setup.exe" uninstall 233 -console GLE 0

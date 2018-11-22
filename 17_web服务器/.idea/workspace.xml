@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../京东商城/mini_ftame/mini_frame_route.py" line="26" />
+    <bookmark url="file://$PROJECT_DIR$/../23_前端/02_非文本格式.html" line="8" />
+    <bookmark url="file://$PROJECT_DIR$/../23_前端/03_列表 表单 表格.html" line="39" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3d46226-8ddc-4447-9eb8-f21616bcd7ee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/17_web$04_WSGI.coverage" NAME="04_支持WSGI协议 Coverage Results" MODIFIED="1542108242774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_miniweb框架" />
+    <SUITE FILE_PATH="coverage/17_web$08_.coverage" NAME="08_装饰器实现路由功能 Coverage Results" MODIFIED="1542196271456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../21_装饰器" />
+    <SUITE FILE_PATH="coverage/17_web$23_.coverage" NAME="23_统计字符次数 Coverage Results" MODIFIED="1542157372249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../05_高级数据类型" />
+    <SUITE FILE_PATH="coverage/17_web$01_http__1_.coverage" NAME="01_面对对象http服务器 (1) Coverage Results" MODIFIED="1542084112215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_miniweb框架" />
+    <SUITE FILE_PATH="coverage/17_web$04_.coverage" NAME="04_多参数修饰器 Coverage Results" MODIFIED="1542185239207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../21_装饰器" />
+    <SUITE FILE_PATH="coverage/17_web$mini_frame_route.coverage" NAME="mini_frame_route Coverage Results" MODIFIED="1542248105829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_miniweb框架/ftame" />
+    <SUITE FILE_PATH="coverage/17_web$01_http__.coverage" NAME="01_多进程完成http服务器[面对对象版本] Coverage Results" MODIFIED="1542076215580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_mini_wb框架" />
+    <SUITE FILE_PATH="coverage/17_web$03_.coverage" NAME="03_单参数装饰器 Coverage Results" MODIFIED="1542184298971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../21_装饰器" />
+    <SUITE FILE_PATH="coverage/17_web$04_http.coverage" NAME="04_多线程实现http服务器 Coverage Results" MODIFIED="1542072929570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/17_web$02_http__1_.coverage" NAME="02_多进程完成http服务器 (1) Coverage Results" MODIFIED="1542081719258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_miniweb框架" />
+    <SUITE FILE_PATH="coverage/17_web$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1542172381653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../06_名片管理" />
+    <SUITE FILE_PATH="coverage/17_web$07___1_.coverage" NAME="07_实现伪静态 (1) Coverage Results" MODIFIED="1542420031960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../京东商城" />
+    <SUITE FILE_PATH="coverage/17_web$02_ORM.coverage" NAME="02_ORM实现 Coverage Results" MODIFIED="1542271062259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../22_元类、实现ORM" />
+    <SUITE FILE_PATH="coverage/17_web$06_.coverage" NAME="06_给程序传递参数 Coverage Results" MODIFIED="1542196693699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_miniweb框架" />
+    <SUITE FILE_PATH="coverage/17_web$01_.coverage" NAME="01_元类 Coverage Results" MODIFIED="1542263673665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../22_元类、实现ORM" />
+    <SUITE FILE_PATH="coverage/17_web$03_ORM.coverage" NAME="03_ORM实现 Coverage Results" MODIFIED="1542271421999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../22_元类、实现ORM" />
+    <SUITE FILE_PATH="coverage/17_web$02_http.coverage" NAME="02_多进程完成http服务器 Coverage Results" MODIFIED="1542078950436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/17_web$07_.coverage" NAME="07_实现伪静态 Coverage Results" MODIFIED="1542418574659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_miniweb框架" />
+    <SUITE FILE_PATH="coverage/17_web$mini_frame.coverage" NAME="mini_frame Coverage Results" MODIFIED="1542199303676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_miniweb框架/ftame" />
+    <SUITE FILE_PATH="coverage/17_web$05_.coverage" NAME="05_带有返回值的装饰器 Coverage Results" MODIFIED="1542185653352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../21_装饰器" />
+    <SUITE FILE_PATH="coverage/17_web$01_http__2_.coverage" NAME="01_面对对象http服务器 (2) Coverage Results" MODIFIED="1542084243828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/17_web$01_http__3_.coverage" NAME="01_面对对象http服务器 (3) Coverage Results" MODIFIED="1542093916427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_miniweb框架" />
+    <SUITE FILE_PATH="coverage/17_web$02_.coverage" NAME="02_匿名函数 Coverage Results" MODIFIED="1542183559614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../21_装饰器" />
+    <SUITE FILE_PATH="coverage/17_web$01_http.coverage" NAME="01_面对对象http服务器 Coverage Results" MODIFIED="1542076627868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../20_mini_wb框架" />
+    <SUITE FILE_PATH="coverage/17_web$02_http__2_.coverage" NAME="02_多进程完成http服务器 (2) Coverage Results" MODIFIED="1542093835094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="Cvs2Configuration">
+    <option name="SHOW_OUTPUT" value="true" />
+    <option name="SHOW_CORRUPTED_PROJECT_FILES" value="1" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1682043442">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.6" value="8" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="gif" value="2" />
+          <entry key="html" value="51" />
+          <entry key="jpg" value="2" />
+          <entry key="js" value="1" />
+          <entry key="png" value="11" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="79" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="51" />
+          <entry key="Image" value="15" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="79" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="27" />
+          <entry key="dummy" value="62" />
+          <entry key="html" value="6822" />
+          <entry key="js" value="32" />
+          <entry key="py" value="6217" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="27" />
+          <entry key="HTML" value="6822" />
+          <entry key="JavaScript" value="32" />
+          <entry key="PLAIN_TEXT" value="62" />
+          <entry key="Python" value="6217" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../23_前端/17_JS引入方式.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../23_前端/18_JS的变量申明和属性.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../京东商城/07_实现伪静态.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\26797\OneDrive\Python\20_mini_wb框架</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../20_miniweb框架/给程序传递参数.py" />
+        <option value="$PROJECT_DIR$/../06_名片管理/cards_tools.py" />
+        <option value="$PROJECT_DIR$/../06_名片管理/card_main2.0.py" />
+        <option value="$PROJECT_DIR$/../06_名片管理/cards_main.py" />
+        <option value="$PROJECT_DIR$/../06_名片管理/card_main_two.py" />
+        <option value="$PROJECT_DIR$/../21_装饰器/01_闭包.py" />
+        <option value="$PROJECT_DIR$/../21_装饰器/02_匿名函数.py" />
+        <option value="$PROJECT_DIR$/../21_装饰器/04_多参数修饰器.py" />
+        <option value="$PROJECT_DIR$/../21_装饰器/05_带有返回值的装饰器.py" />
+        <option value="$PROJECT_DIR$/../21_装饰器/06_多个装饰器.py" />
+        <option value="$PROJECT_DIR$/../21_装饰器/07_类装饰器.py" />
+        <option value="$PROJECT_DIR$/../21_装饰器/03_单参数装饰器.py" />
+        <option value="$PROJECT_DIR$/../21_装饰器/08_装饰器实现路由功能.py" />
+        <option value="$PROJECT_DIR$/../20_miniweb框架/07_装饰器实现路由功能.py" />
+        <option value="$PROJECT_DIR$/../20_miniweb框架/06_给程序传递参数.py" />
+        <option value="$PROJECT_DIR$/../20_miniweb框架/mini_frame_route.py" />
+        <option value="$PROJECT_DIR$/../20_miniweb框架/07_实现伪静态.py" />
+        <option value="$PROJECT_DIR$/../20_miniweb框架/ftame/mini_frame.py" />
+        <option value="$PROJECT_DIR$/../20_miniweb框架/templates/index.html" />
+        <option value="$PROJECT_DIR$/../20_miniweb框架/ftame/mini_frame_route.py" />
+        <option value="$PROJECT_DIR$/../22_元类、实现ORM/01_元类.py" />
+        <option value="$PROJECT_DIR$/../22_元类、实现ORM/02_ORM实现.py" />
+        <option value="$PROJECT_DIR$/../22_元类、实现ORM/03_ORM实现.py" />
+        <option value="$PROJECT_DIR$/../23_前端/01_基础格式.html" />
+        <option value="$PROJECT_DIR$/../23_前端/03_非文本格式.html" />
+        <option value="$PROJECT_DIR$/../23_前端/venv/04_页面布局.html" />
+        <option value="$PROJECT_DIR$/../23_前端/05_基本的css.css" />
+        <option value="$PROJECT_DIR$/../23_前端/css/main.css" />
+        <option value="$PROJECT_DIR$/../23_前端/06_css选择器.html" />
+        <option value="$PROJECT_DIR$/../23_前端/05_引用css文件.html" />
+        <option value="$PROJECT_DIR$/../京东商城/07_实现伪静态.py" />
+        <option value="$PROJECT_DIR$/../京东商城/mini_ftame/mini_frame_route.py" />
+        <option value="$PROJECT_DIR$/../京东商城/templates/index.html" />
+        <option value="$PROJECT_DIR$/../23_前端/07_盒子模型.html" />
+        <option value="$PROJECT_DIR$/../16_正则表达式/05_解析网址.py" />
+        <option value="$PROJECT_DIR$/../23_前端/04_表单.html" />
+        <option value="$PROJECT_DIR$/../23_前端/09_matgin-top塌陷.html" />
+        <option value="$PROJECT_DIR$/../23_前端/venv/10_元素溢出.html" />
+        <option value="$PROJECT_DIR$/../23_前端/08_块元素.html" />
+        <option value="$PROJECT_DIR$/../23_前端/venv/10_公司首页.html" />
+        <option value="$PROJECT_DIR$/../23_前端/11_清除浮动.html" />
+        <option value="$PROJECT_DIR$/../23_前端/12_清除浮动.html" />
+        <option value="$PROJECT_DIR$/../23_前端/13_定位.html" />
+        <option value="$PROJECT_DIR$/../23_前端/14_图标定位布局.html" />
+        <option value="$PROJECT_DIR$/../23_前端/15_固定在页面顶部的水平居中的菜单.html" />
+        <option value="$PROJECT_DIR$/../23_前端/16_background属性.html" />
+        <option value="$PROJECT_DIR$/../23_前端/03_列表 表单 表格.html" />
+        <option value="$PROJECT_DIR$/../23_前端/17_JS.html" />
+        <option value="$PROJECT_DIR$/../23_前端/hello.js" />
+        <option value="$PROJECT_DIR$/../23_前端/17_JS引入方式.html" />
+        <option value="$PROJECT_DIR$/../23_前端/18_JS的变量申明和属性.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="720" />
+    <option name="y" value="26" />
+    <option name="width" value="1123" />
+    <option name="height" value="963" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidPropertyValue</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="17_web服务器" type="b2602c69:ProjectViewProjectNode" />
+              <item name="京东商城" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../16_正则表达式" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\26797\OneDrive\Python\23_前端\images" />
+      <recent name="C:\Users\26797\OneDrive\Python\23_前端" />
+      <recent name="C:\Users\26797\OneDrive\Python\20_miniweb框架" />
+      <recent name="C:\Users\26797\OneDrive\Python\20_mini_wb框架" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\26797\OneDrive\Python\23_前端" />
+      <recent name="C:\Users\26797\OneDrive\Python\京东商城\mini_ftame" />
+      <recent name="C:\Users\26797\OneDrive\Python\京东商城" />
+      <recent name="C:\Users\26797\OneDrive\Python\23_前端\css" />
+      <recent name="C:\Users\26797\OneDrive\Python\20_miniweb框架\ftame" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.18_JS的变量申明和属性.html">
+    <configuration name="14_图标定位布局.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/17_web服务器/14_图标定位布局.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="15_固定在页面顶部的水平居中的菜单.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/17_web服务器/15_固定在页面顶部的水平居中的菜单.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="16_background属性.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/17_web服务器/16_background属性.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="17_JS引入方式.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/17_web服务器/17_JS引入方式.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="18_JS的变量申明和属性.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/17_web服务器/18_JS的变量申明和属性.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="01_面对对象http服务器 (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="20_miniweb框架" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../20_miniweb框架" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\26797\OneDrive\Python\20_miniweb框架\01_面对对象http服务器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.01_面对对象http服务器 (1)" />
+      <item itemvalue="JavaScript Debug.14_图标定位布局.html" />
+      <item itemvalue="JavaScript Debug.15_固定在页面顶部的水平居中的菜单.html" />
+      <item itemvalue="JavaScript Debug.16_background属性.html" />
+      <item itemvalue="JavaScript Debug.17_JS引入方式.html" />
+      <item itemvalue="JavaScript Debug.18_JS的变量申明和属性.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.18_JS的变量申明和属性.html" />
+        <item itemvalue="JavaScript Debug.17_JS引入方式.html" />
+        <item itemvalue="JavaScript Debug.16_background属性.html" />
+        <item itemvalue="JavaScript Debug.15_固定在页面顶部的水平居中的菜单.html" />
+        <item itemvalue="JavaScript Debug.14_图标定位布局.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d46226-8ddc-4447-9eb8-f21616bcd7ee" name="Default Changelist" comment="" />
+      <created>1542072914974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542072914974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="720" y="26" width="1123" height="963" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15333961" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32843652" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50137997" side_tool="true" weight="0.30430222" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32843652" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32948583" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49862006" weight="0.28210527" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3968421" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32919255" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32934132" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.32985073" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/filters/lint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="40" column="62" selection-start-line="40" selection-start-column="62" selection-end-line="40" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/05_通过传递字典实现不同需求.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/ftame/mini_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/templates/min/yzcm.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/templates/detail - 副本.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../22_元类、实现ORM/01_元类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../22_元类、实现ORM/02_ORM实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../22_元类、实现ORM/03_ORM实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/html/min/paging.css,list.css" />
+    <entry file="file://$PROJECT_DIR$/../23_前端/html/min/yzcm.css" />
+    <entry file="file://$PROJECT_DIR$/../23_前端/html/min/backtotop.css" />
+    <entry file="file://$PROJECT_DIR$/../23_前端/html/images/icon.jpg" />
+    <entry file="file://$PROJECT_DIR$/../23_前端/html/images/www/header_sprite.png" />
+    <entry file="file://$PROJECT_DIR$/../23_前端/html/images/www/logo.png" />
+    <entry file="file://$PROJECT_DIR$/../23_前端/html/images/www/qq.png" />
+    <entry file="file://$PROJECT_DIR$/../23_前端/images/bomb.png" />
+    <entry file="file://$PROJECT_DIR$/../23_前端/images/bomb_supply.png" />
+    <entry file="file://$PROJECT_DIR$/../23_前端/images/luoxiaohei.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/05_页面布局.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/images/background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/images/again.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/templates/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../20_miniweb框架/ftame/mini_frame_route-PYB-SGYK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../京东商城/mini_ftame/mini_frame_route.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+          <folding>
+            <marker date="1542420387935" expanded="true" signature="123:128" ph="..." />
+            <marker date="1542420387935" expanded="true" signature="386:391" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../16_正则表达式/05_解析网址.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="81" selection-start-column="81" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/07_引用css文件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../京东商城/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/08_盒子模型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/08_块元素.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/04_表单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/06_css选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/09_matgin-top塌陷.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/10_元素溢出.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/12_清除浮动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/13_定位.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/14_图标定位布局.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/15_固定在页面顶部的水平居中的菜单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/11_公司首页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/16_background属性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/01_基础格式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/02_非文本格式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/03_列表 表单 表格.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/17_JS引入方式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../23_前端/18_JS的变量申明和属性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../京东商城/07_实现伪静态.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

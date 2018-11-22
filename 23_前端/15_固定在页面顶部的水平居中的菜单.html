@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>caidan</title>
+    <style type="text/css">
+        .menu{
+            width: 960px;
+            height: 30px;
+            background-color: gold;
+            position: fixed;
+            top: 0px;
+            left: 50%;
+            margin-left: -480px;
+        }
+        .popup{
+            width: 500px;
+            height: 300px;
+            border: 1px solid #000;
+            background-color: #fff;
+            color: black;
+            position: fixed;
+
+            left: 50%;
+            margin-left: -251px;
+            top: 300px;
+            /*保证弹框能盖住所有东西*/
+            z-index: 9999;
+
+        }
+        .popup h2{
+            height: 40px;
+            background-color: gold;
+            margin: 10px auto 0;
+
+        }
+        .mask{
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            background-color: #000;
+            left: 0;
+            top: 0;
+            /*网页透明度*/
+            opacity: 0.5;
+            z-index: 9998;
+        }
+        /*整体控制弹框*/
+        .pop_con{
+            /*显示/不显示*/
+            display: none;
+            /*display: break;*/
+        }
+
+    </style>
+</head>
+<body>
+    <div class="menu">菜单文字</div>
+
+    <div class="pop_con">
+        <div class="popup">
+            <h2>弹框</h2>
+        </div>
+        <div class="mask"></div>
+    </div>
+
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+[COMMENT]
+UpdateItemCount=1
+[microsoft.vc80.crt.manifest]
+FN=microsoft.vc80.crt.manifest
+Ver=2017.11.29
+C=425527388
+FT=6
+FS=1837
+SFS=580
+SFN=3309563f1d74d2557a0e1cf2c9eb549a
