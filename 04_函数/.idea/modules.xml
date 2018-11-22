@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/04_函数.iml" filepath="$PROJECT_DIR$/.idea/04_函数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05_模块/.idea/05_模块.iml" filepath="$PROJECT_DIR$/../05_模块/.idea/05_模块.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05_高级数据类型/.idea/05_高级数据类型.iml" filepath="$PROJECT_DIR$/../05_高级数据类型/.idea/05_高级数据类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06_名片管理/.idea/06_名片管理1.0.iml" filepath="$PROJECT_DIR$/../06_名片管理/.idea/06_名片管理1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07_语法进阶/.idea/07_语法进阶.iml" filepath="$PROJECT_DIR$/../07_语法进阶/.idea/07_语法进阶.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08_面向对象基础/.idea/08_面向对象基础.iml" filepath="$PROJECT_DIR$/../08_面向对象基础/.idea/08_面向对象基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09_面对对象特性/.idea/09_面对对象特性.iml" filepath="$PROJECT_DIR$/../09_面对对象特性/.idea/09_面对对象特性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10_异常/.idea/10_异常.iml" filepath="$PROJECT_DIR$/../10_异常/.idea/10_异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13_文件/.idea/13_文件.iml" filepath="$PROJECT_DIR$/../13_文件/.idea/13_文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../15_协程/.idea/15_协程.iml" filepath="$PROJECT_DIR$/../15_协程/.idea/15_协程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../16_正则表达式/.idea/16_正则表达式.iml" filepath="$PROJECT_DIR$/../16_正则表达式/.idea/16_正则表达式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../17_web服务器/.idea/17_web服务器.iml" filepath="$PROJECT_DIR$/../17_web服务器/.idea/17_web服务器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../18_python提高/.idea/18_python提高.iml" filepath="$PROJECT_DIR$/../18_python提高/.idea/18_python提高.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../图片下载器/.idea/图片下载器.iml" filepath="$PROJECT_DIR$/../图片下载器/.idea/图片下载器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../慧云公司管理系统/.idea/慧云公司管理系统.iml" filepath="$PROJECT_DIR$/../慧云公司管理系统/.idea/慧云公司管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../慧云公司管理系统2.0/.idea/慧云公司管理系统2.0.iml" filepath="$PROJECT_DIR$/../慧云公司管理系统2.0/.idea/慧云公司管理系统2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14_网络基础/.idea/网络基础.iml" filepath="$PROJECT_DIR$/../14_网络基础/.idea/网络基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../飞机大战/.idea/飞机大战.iml" filepath="$PROJECT_DIR$/../飞机大战/.idea/飞机大战.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../飞机大战2.0/.idea/飞机大战2.0.iml" filepath="$PROJECT_DIR$/../飞机大战2.0/.idea/飞机大战2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../飞机大战[完整板]/.idea/飞机大战[完整板].iml" filepath="$PROJECT_DIR$/../飞机大战[完整板]/.idea/飞机大战[完整板].iml" />
+    </modules>
+  </component>
+</project>
